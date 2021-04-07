@@ -1,4 +1,4 @@
-string = 'sj.tset/etisbew.stropatad//:sptth';
+string = '22=v?sj.tset/etisbew.stropatad//:sptth';
 
 string.split("").reverse().join("");
 
